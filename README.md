@@ -1,4 +1,7 @@
- -📫 How to reach me *mahmutyatak@outlook.com*
+<h1 align="center">Hi 👋, I'm Mahmut</h1>
+<h3 align="center">A software test engineer</h3>
+
+-📫 How to reach me *mahmutyatak@outlook.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
