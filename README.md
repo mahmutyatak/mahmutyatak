@@ -33,11 +33,12 @@
 [selenium]: https://www.selenium.dev/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 [github]: https://github.com/berkansonmezay
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
+
+![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
